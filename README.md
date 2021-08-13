@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, My name is Vinícius Fiedler - aka vfiedlerc [https://github.com/vfiedlerc] 👋
 
-<!--
-**vfiedlerc/vfiedlerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Full - Stack Developer at Kampanos.pt, Co-founder of Anvila Marketing Agency & Jobs Offer
 
-Here are some ideas to get you started:
+- 🔭 I have a little SoftwareHouse where I also work as a freelancer: [https://fiedler.pt]
+- 🌱 Studying Computer Engineering at UFOP - Universidade Federal de Ouro Preto
+- 👯 I’m currently learning everything!
+- 🥅 I speak English and Portuguese
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack: Javascript | Typescript | ReactJS | React Native | NodeJS | 
+
+### Connect with me:
+
+<img align="left" alt="fiedler.pt" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> [https://fiedler.pt]
+
+<img align="left" alt="linkedin.com/in/viniciusfff/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [https://linkedin.com/in/viniciusfff/]
+
+<img align="left" alt="instagram.com/viniciusfiedlerc" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [https://instagram.com/viniciusfiedlerc]
+
+<br />
