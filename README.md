@@ -1,13 +1,13 @@
 ### Hi there, My name is Vinícius Fiedler - aka vfiedlerc [https://github.com/vfiedlerc] 👋
 
-## I'm a Full - Stack Developer at Kampanos.pt, Co-founder of Anvila Marketing Agency & Jobs Offer
+## I'm a Full - Stack Developer at Kampanos.pt and Computer Engineering student at UFOP
 
-- 🔭 I have a little SoftwareHouse where I also work as a freelancer: [https://fiedler.pt]
-- 🌱 Studying Computer Engineering at UFOP - Universidade Federal de Ouro Preto
+- 🔭 Passionate about technology and programming, always looking to learn new things
+- 🌱 Computer Engineering at UFOP - Universidade Federal de Ouro Preto
 - 👯 I’m currently learning everything!
 - 🥅 I speak English and Portuguese
 
-## Tech Stack: Javascript | Typescript | ReactJS | React Native | NodeJS | 
+## Tech Stack: #Javascript, #Typescript,# ReactJS, #React Native, #Firebase, #C, #PHP, #Symfony
 
 ### Connect with me:
 
