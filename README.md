@@ -20,7 +20,9 @@ Data Engineer at **Embrapa** — a Brazilian federal agricultural research insti
 I work across the full data lifecycle: from infrastructure and database administration to dashboards, integrations, and AI-powered product development. My professional goal is to contribute to globally distributed teams solving high-impact problems.
 
 - 🇧🇷 Based in Brazil — open to **remote** roles worldwide
-- 🎓 Computer Engineering @ **UFOP** (Universidade Federal de Ouro Preto)
+- 🎓 Postgraduate in **IT Infrastructure Architecture & Management** — UniBF
+- 🎓 A.S. in **Systems Analysis and Development** — UniBF
+- 🎓 A.S. in **Public Management** — UNOPAR
 - 🤖 Building **Fiedler AI** — AI study guidance SaaS (Next.js · Supabase · Anthropic API · Stripe)
 - 🗣️ **English** (professional) · **Portuguese** (native)
 
@@ -115,7 +117,7 @@ I work across the full data lifecycle: from infrastructure and database administ
 ```text
 ↳ Building    Fiedler AI — AI-powered SaaS platform (in development)
 ↳ Working     Data Engineer @ Embrapa (federal research institution, Brazil)
-↳ Studying    Computer Engineering @ UFOP
+↳ Learning    Self-taught — AI/ML, distributed systems & cloud architecture
 ↳ Preparing   Public auditor exam track (CGU / TCU)
 ↳ Available   Remote roles — Data Engineering, Backend, AI/ML
 ```
